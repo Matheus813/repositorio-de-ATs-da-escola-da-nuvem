@@ -1,4 +1,4 @@
 #Encontre o erro e corrija-o
-class = "Tecnologia"
+classes = "Tecnologia"
 
-print(class)
+print(classes) 
